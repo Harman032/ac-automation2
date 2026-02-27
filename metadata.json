@@ -1,0 +1,8 @@
+{
+  "name": "CanAccount - Canadian Accountant Automation",
+  "description": "A streamlined MVP for Canadian accounting firms to track client master data, compliance filings (HST, T2, Payroll), and monthly bank/credit card statements with automated status monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
